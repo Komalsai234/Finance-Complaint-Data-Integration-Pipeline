@@ -11,7 +11,7 @@ The primary aim of this project is to create an efficient and scalable data pipe
 - Loads the transformed data into DynamoDB for further analysis.
 
 ## Architecture
-
+![Data Pipeline](images/project_pipeline.png)
 
 - **Data Ingestion:**
      
