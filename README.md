@@ -12,8 +12,6 @@ The primary aim of this project is to create an efficient and scalable data pipe
 
 ## Architecture
 
-![Data Pipeline](images/pipeline.png)
-
 
 - **Data Ingestion:**
      
