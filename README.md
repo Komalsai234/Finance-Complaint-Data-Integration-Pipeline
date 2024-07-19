@@ -42,7 +42,7 @@ The primary aim of this project is to create an efficient and scalable data pipe
 - **Clone the Repository:**
 
     ```
-    git clone https://github.com/yourusername/finance-complaint-data-pipeline.git
+    git clone https://github.com/Komalsai234/Finance-Complaint-Data-Integration-Pipeline.git
     ```
 
 - **AWS Lambda Function:**
