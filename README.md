@@ -34,8 +34,8 @@ The primary aim of this project is to create an efficient and scalable data pipe
 
 ### Prerequisites
 - AWS Account
-- AWS CLI configured.
-- MongoDB instance.
+- AWS CLI configured
+- MongoDB instance
 - Python 3.9+
 
 ## Step-by-Step Guide
